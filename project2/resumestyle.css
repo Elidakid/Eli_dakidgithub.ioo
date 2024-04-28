@@ -1,1 +1,62 @@
+/* Styles for header */
+#hd {
+    background-color: #3498db;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+}
 
+/* Styles for left navigation */
+#lnav {
+    float: left;
+    width: 20%;
+    padding: 20px;
+}
+
+/* Styles for body */
+#bd {
+    float: left;
+    width: 60%;
+    padding: 20px;
+}
+
+/* Styles for right navigation */
+#rnav {
+    float: left;
+    width: 20%;
+    padding: 20px;
+}
+
+/* Styles for footer */
+#ft {
+    clear: both;
+    text-align: center;
+    position: relative;
+}
+
+/* Styles for hyperlinks */
+a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+a:hover {
+    font-size: larger;
+}
+
+a:visited {
+    color: #0066cc;
+}
+
+/* Styles for horizontal list */
+.hlist ul {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    position: relative;
+}
+
+.hlist li {
+    display: inline;
+    margin: 0 10px;
+}
